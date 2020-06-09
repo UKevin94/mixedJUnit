@@ -40,6 +40,6 @@ public class AnimatedMenuTest {
 	
     @AfterEach
     public void tearDown(){
-        driver.quit();
+        
     }
 }
