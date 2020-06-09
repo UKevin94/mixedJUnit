@@ -25,7 +25,7 @@ public class AnimatedMenuTest {
         System.out.println("SUCCESS");
         int a = 1;
         int b = 2;
-        Assertions.assertTrue((a+b)==3, "Le calcul est faux");
+        Assertions.assertTrue(true, "Le calcul est faux");
     }
 
     @TFMetadata(key = "linked-TC", value = "141714ad-e3cc-463b-bddb-df7231958630")
